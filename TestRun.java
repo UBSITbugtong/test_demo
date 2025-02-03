@@ -3,6 +3,7 @@ public class TestRun{
         System.out.println("Hello World");
         System.out.println("I am trying to commit to GitHub and clone repository");
         Response();
+        Finishing();
     }
     public static void Response(){
         System.out.println("I have successfully created the repository, now, I'm trying to clone the repository and commit again using terminal");
